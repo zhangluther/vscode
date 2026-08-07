@@ -50,3 +50,4 @@ dist
 .agents/skills/.local/
 .github/skills/.local/
 workbench
+platform
